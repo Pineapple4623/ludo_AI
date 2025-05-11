@@ -1,6 +1,10 @@
 # Ludo Miz
 
 A Python-based implementation of the classic Ludo board game with an AI opponent and special power-up features. This enhanced version includes strategic computer players and unique gameplay mechanics like safe square bonuses.
+ ## By
+ 22K-4623 Areeb Ahmed
+ 22K-4430 Ali Jaffry
+ 22K-4279 Zain Haider
 
 ## Features
 
